@@ -27,6 +27,8 @@ Soy un desarrollador Frontend apasionado por la tecnología, el código limpio y
 
 En mis ratos libres me gusta tocar la guitarra 🎸, armar cubos Rubik 🧩 y aprender sobre inteligencia artificial 🤖.
 
+javascript logotypescript logoreact logonextjs logostorybook logonodejs logonestjs logojest logo
+
 ---
 
 _¡Gracias por visitar mi perfil!_ 🚀
