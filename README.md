@@ -107,12 +107,6 @@ En mis ratos libres me gusta tocar la guitarra 🎸, armar cubos Rubik 🧩 y ap
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 ---
 
 _¡Gracias por visitar mi perfil!_ 🚀
