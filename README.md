@@ -109,5 +109,5 @@ En mis ratos libres me gusta tocar la guitarra 🎸, armar cubos Rubik 🧩 y ap
 
 ---
 
-                                                       _¡Gracias por visitar mi perfil!_ 🚀
+                                                      _¡Gracias por visitar mi perfil!_ 🚀
 
